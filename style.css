@@ -1,0 +1,36 @@
+.hd{
+font-size: 30px;
+color:blue;
+background-color: white;
+width: 100%;
+
+}
+.bhb{
+    font-size: 15px;
+    color:red;
+    background-color: white;
+}
+.bbab{
+    font-size: 15px;
+    color:green;
+    background-color: white;
+}
+.bruh{
+    font-size: 20px;
+    color:skyblue;
+    background-color: white;
+}
+.copy{
+    position: fixed;
+    width: 100%;
+    color:cornsilk;
+    background-color: rgb(73, 80, 12);
+    bottom: 0;
+    line-height: 3;
+    font-size: 20px;
+    text-align: center;
+}
+canvas{
+    border:5px dotted azure;
+    margin-top: 210px;
+}
